@@ -13,4 +13,16 @@ export const Container = styled.button`
   border: none;
   outline: none;
   border-radius: 0.4rem;
+
+  @media(max-width: 900px) {
+    width: 15rem;
+    font-size: 2rem;
+    margin-top: 3rem;
+   }
+
+   @media(max-width: 600px) {
+    width: 10rem;
+    font-size: 1.6rem;
+    margin-top: 1.5rem;
+   }
 `;
