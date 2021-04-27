@@ -5,7 +5,7 @@ type ButtonT = {
   children: string;
 }
 
-const Button = ({ children }: ButtonT) => {
+const Button = ({ children}: ButtonT) => {
   return <Container>{children}</Container>;
 };
 
