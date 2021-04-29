@@ -11,7 +11,7 @@ const CallToAction = () => {
     <h3>Pronto para assistir? Informe seu email para criar ou reiniciar sua assinatura.</h3>
 
     <form onSubmit={(e) => e.preventDefault()}>
-      <input type="text" placeholder="Email"/>
+      <input type="email" placeholder="Email"/>
       <Button>{'Vamos Lá >'}</Button>
     </form>
   </Container>
