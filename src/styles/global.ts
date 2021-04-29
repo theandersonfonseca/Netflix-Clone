@@ -18,6 +18,8 @@ export default createGlobalStyle`
     text-rendering: optimizeSpeed;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    color: #fff;
+    background: #000;
   }
   body, input, button {
     font-family: 'Roboto Slab', sans-serif;
