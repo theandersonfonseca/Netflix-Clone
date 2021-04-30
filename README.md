@@ -1,4 +1,4 @@
 ## Netflix Clone
 
-## Em Construção
+![](./github/netflix-clone.gif)
 
